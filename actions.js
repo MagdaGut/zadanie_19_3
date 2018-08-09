@@ -33,7 +33,7 @@ const thumbDownComment = (id) => ({
   id
 });
 
-export default {
+export {
   addComment,
   removeComment,
   editComment,
